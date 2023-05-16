@@ -29,7 +29,7 @@ python main.py
 3. The program will launch and display a window titled "Computer Store."
 
 
-![Main Window](ScreenShots/mainwindow.png)
+![Main Window](ScreenShots/mainWindow.PNG)
 
 # Features
 - The program provides a graphical interface for managing a computer shop point-of-sale system.
@@ -41,13 +41,13 @@ The program allows you to perform various actions, such as adding items to the i
 
 # Screenshots
 ## Sign Up Page
-![Sign Up Page](ScreenShots/signup.png)
+![Sign Up Page](ScreenShots/signup.PNG)
 
 ## Catalogue
-![Catalogue](ScreenShots/catalogue.png)
+![Catalogue](ScreenShots/catalogue.PNG)
 
 ## Cart
-![Add to Cart](ScreenShots/cart.png)
+![Add to Cart](ScreenShots/cart.PNG)
 
 
 # Checkout Button Modification
