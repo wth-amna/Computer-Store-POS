@@ -67,4 +67,4 @@ Contributions to this project are welcome. If you would like to contribute, plea
 - Special thanks to the developers and contributors of Pygame for providing an excellent framework for building interactive applications.
 
 ## Contact
-If you have any questions or suggestions, please feel free to contact the project maintainer at [email address].
+If you have any questions or suggestions, please feel free to contact me at hamnanadeem77@gmail.com.
